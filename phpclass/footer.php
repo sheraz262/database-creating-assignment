@@ -1,5 +1,5 @@
 <footer class="container-fluid text-center p-5 bg-light">
-        <h3>THIS IS FOOTER</h3>
+        <h3 style="color-white;">THIS IS MyFOOTER</h3>
   </footer>
 
 
